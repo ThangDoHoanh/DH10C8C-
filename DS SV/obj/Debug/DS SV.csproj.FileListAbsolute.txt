@@ -1,0 +1,11 @@
+D:\New Volume\C# 3.5\DH10C8\DS SV\bin\Debug\DS SV.exe.config
+D:\New Volume\C# 3.5\DH10C8\DS SV\bin\Debug\DS SV.exe
+D:\New Volume\C# 3.5\DH10C8\DS SV\bin\Debug\DS SV.pdb
+D:\New Volume\C# 3.5\DH10C8\DS SV\obj\Debug\DS SV.csproj.AssemblyReference.cache
+D:\New Volume\C# 3.5\DH10C8\DS SV\obj\Debug\DS SV.csproj.SuggestedBindingRedirects.cache
+D:\New Volume\C# 3.5\DH10C8\DS SV\obj\Debug\DS_SV.Form1.resources
+D:\New Volume\C# 3.5\DH10C8\DS SV\obj\Debug\DS_SV.Properties.Resources.resources
+D:\New Volume\C# 3.5\DH10C8\DS SV\obj\Debug\DS SV.csproj.GenerateResource.cache
+D:\New Volume\C# 3.5\DH10C8\DS SV\obj\Debug\DS SV.csproj.CoreCompileInputs.cache
+D:\New Volume\C# 3.5\DH10C8\DS SV\obj\Debug\DS SV.exe
+D:\New Volume\C# 3.5\DH10C8\DS SV\obj\Debug\DS SV.pdb
